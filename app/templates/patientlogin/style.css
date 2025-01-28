@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_login{
+    overflow-x: none;
+    width: 100%;
+    min-height: 100vh;
+}
+.header div, .header div input{
+    width: 100%;
+}
+.header div input{
+    border-radius: 8px;
+    outline: none;
+}
+.header div button{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+a p{
+    font-size: 15px;
+    margin-top: 5px;
+}
+.head div{
+    padding: 0;
+}
+.patient{
+    font-size:16px;
+}
+.logo{
+    height: 80px;
+    width:90px;
+    border-radius:50px;
+}
