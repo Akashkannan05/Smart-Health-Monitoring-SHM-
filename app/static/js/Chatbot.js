@@ -9,7 +9,7 @@ const closeChatBot = document.querySelector("#close_chatbot");
 
 //API setup
 //API key
-const API_KEY = "AIzaSyCpaqJPgz6HH_H5-grNR1ShLd2s-aCdVCQ";
+const API_KEY = "Your API Key";
 // API url
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${API_KEY}`; // Here we removed beta from betaV1 in url
 
